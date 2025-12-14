@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>ru.job4j</groupId>
-    <artifactId>job4j-tracker</artifactId>
+    <artifactId>job4j-tracker-full</artifactId>
     <version>1.0</version>
     <packaging>jar</packaging>
 
